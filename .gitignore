@@ -7,6 +7,12 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.ideal/
+*.iml
+*.iws
+
+log/
+target/
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
